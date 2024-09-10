@@ -2,7 +2,7 @@
 https://www.curseforge.com/minecraft/mc-mods/terralith
 
 **BIOMES O' PLENTY MODS / TEXTURES**
-https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty
 https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty
 https://www.curseforge.com/minecraft/texture-packs/biomes-o-plenty-x-farmers-delight-bark-cutting
